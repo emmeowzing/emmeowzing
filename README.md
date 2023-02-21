@@ -1,6 +1,6 @@
 ### Quick links
 
-- [My astronomy (b)log](blog.aperiodicity.com)
+- [My astronomy (b)log](https://blog.aperiodicity.com)
 
 ### Things I work on
 
