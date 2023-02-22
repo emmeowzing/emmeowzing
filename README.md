@@ -4,7 +4,7 @@
 
 ### Things I work on
 
-#### General
+#### Misc.
 
 - [CircleCI dynamic-continuation Orb](https://github.com/bjd2385/dynamic-continuation-orb)
 - [PremiScale](https://github.com/premiscale)
