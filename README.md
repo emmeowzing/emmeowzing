@@ -4,10 +4,11 @@
 
 ### Things I work on
 
+- [PremiScale](https://github.com/premiscale)
+
 #### Misc.
 
 - [CircleCI dynamic-continuation Orb](https://github.com/bjd2385/dynamic-continuation-orb)
-- [PremiScale](https://github.com/premiscale)
 - [bashrc](https://github.com/bjd2385/bashrc)
 - [wildmatch](https://github.com/bjd2385/wildmatch)
 
