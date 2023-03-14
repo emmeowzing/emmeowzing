@@ -2,7 +2,7 @@
 
 - [astronomy (b)log](https://blog.aperiodicity.com)
 
-### Things I work on
+### Stuff I work on
 
 - [PremiScale](https://github.com/premiscale)
 
