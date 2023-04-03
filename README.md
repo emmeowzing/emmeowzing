@@ -1,9 +1,6 @@
-### Quick links
-
-- [astronomy (b)log](https://blog.aperiodicity.com)
-
 ### Stuff I work on
 
+- [astronomy (b)log](https://blog.aperiodicity.com)
 - [PremiScale](https://github.com/premiscale)
 
 #### Misc.
