@@ -8,7 +8,7 @@
 - [CircleCI dynamic-continuation Orb](https://github.com/bjd2385/dynamic-continuation-orb)
 - [bashrc](https://github.com/bjd2385/bashrc)
 - [wildmatch](https://github.com/bjd2385/wildmatch)
-- [Slack roulette bot](https://github.com/bjd2385/slack-roulette)
+- [roulette chat bot](https://github.com/bjd2385/slack-roulette)
 
 #### pre-commit hooks (I like tools that save me time)
 
