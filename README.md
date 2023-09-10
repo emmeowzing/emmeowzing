@@ -2,7 +2,6 @@
 
 - [PremiScale](https://github.com/premiscale)
 - [CircleCI dynamic-continuation Orb](https://github.com/bjd2385/dynamic-continuation-orb)
-- [wildmatch](https://github.com/bjd2385/wildmatch)
 
 #### pre-commit hooks and configs (I like tools that save me time)
 
