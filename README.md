@@ -1,7 +1,6 @@
 ### Stuff I work on ~
 
 - [PremiScale](https://github.com/premiscale)
-- [CircleCI dynamic-continuation Orb](https://github.com/bjd2385/dynamic-continuation-orb)
 
 #### pre-commit hooks and configs (I like tools that save me time)
 
