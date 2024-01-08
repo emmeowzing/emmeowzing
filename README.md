@@ -5,14 +5,6 @@
 
 ###
 
-<br clear="both">
-
-<div align="center">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&username=emmeowzing&theme=default" alt="Layout with last medium posts"  />
-</div>
-
-###
-
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
   <img width="12" />
@@ -42,15 +34,3 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" height="40" alt="terraform logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <a href="https://open.spotify.com/user/emmeowzing">
-    <img src="https://spotify-recently-played-readme.vercel.app/api?user=emmeowzing&count=5&unique=true" alt="Spotify recently played"  />
-  </a>
-</div>
-
-###
