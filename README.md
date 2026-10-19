@@ -1,7 +1,5 @@
 <img src="assets/polyad.png" alt="Polyad mascot: two connected robot faces" width="112" align="right">
 
-# Emma Doyle
-
 Platform engineering · developer tools · environmental systems
 
 📄 [Résumé](https://resume.tiger-lily-plants.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/emmeowzing/) · 🛠️ [Astrivant](https://github.com/astrivant) · 🌱 [Tiger Lily Plants](https://tiger-lily-plants.com)
