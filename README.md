@@ -8,10 +8,10 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 
 ## Current work
 
-My work at [Astrivant](https://github.com/astrivant) spans user-owned agent knowledge, adaptive services, and the infrastructure around them.
+My work at [Astrivant](https://github.com/astrivant) spans secure, user-owned agent knowledge and the infrastructure around them.
 
-- **[Identity & Witful](https://github.com/astrivant/identity)**: Git-backed guidance, lessons, decisions, and evidence for people and their agents. Includes a Python library and CLI, record validation, and encrypted private snapshots.
-- **Polyad**: adaptive service orchestration.
+Example public projects that have been curated as part of this work:
+
 - **[hypothesis-helm](https://github.com/astrivant/hypothesis-helm)**: property-based testing for Helm charts, with schema auditing and reproducible failing inputs.
 - **[resumeme](https://github.com/astrivant/resumeme)**: configurable résumés built from LinkedIn profiles, with versioned source and signed PDF releases.
 
