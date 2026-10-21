@@ -10,7 +10,7 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 
 My work at [Astrivant](https://github.com/astrivant) spans AI and the infrastructure around it.
 
-[Tiger Lily Plants] brings botany and engineering together to reimagine the spaces we inhabit.
+[Tiger Lily Plants](https://github.com/tigerlilyplants brings botany and engineering together to reimagine the spaces we inhabit.
 
 ## Plants & hardware
 
