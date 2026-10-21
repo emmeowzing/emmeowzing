@@ -11,9 +11,3 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 My work at [Astrivant](https://github.com/astrivant) spans AI and the infrastructure around it.
 
 [Tiger Lily Plants](https://github.com/tigerlilyplants) brings botany and engineering together to reimagine the spaces we inhabit.
-
-## Plants & hardware
-
-[Orchidarium](https://github.com/tigerlilyplants/orchidarium) is an environmental monitoring and control project for confined environments. Sensor collection, metrics publishing, a health/readiness API, and a Qt/QML interface run today; hardware actuation is still in development.
-
-The [Tiger Lily Plants site and blog](https://tiger-lily-plants.com) cover the plant side of that work.
