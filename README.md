@@ -13,7 +13,6 @@ My work at [Astrivant](https://github.com/astrivant) spans AI and the infrastruc
 Example public projects that have been curated as part of this work:
 
 - **[hypothesis-helm](https://github.com/astrivant/hypothesis-helm)**: property-based testing for Helm charts, with schema auditing and reproducible failing inputs.
-- **[resumeme](https://github.com/astrivant/resumeme)**: configurable résumés built from LinkedIn profiles, with versioned source and signed PDF releases.
 
 ## Plants & hardware
 
