@@ -10,9 +10,7 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 
 My work at [Astrivant](https://github.com/astrivant) spans AI and the infrastructure around it.
 
-Example public projects that have been curated as part of this work:
-
-- **[hypothesis-helm](https://github.com/astrivant/hypothesis-helm)**: property-based testing for Helm charts, with schema auditing and reproducible failing inputs.
+[Tiger Lily Plants] brings botany and engineering together to reimagine the spaces we inhabit.
 
 ## Plants & hardware
 
