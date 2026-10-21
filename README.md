@@ -8,8 +8,6 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 
 ## Current work
 
-My work at 
-
 - [Astrivant](https://github.com/astrivant) spans AI and the infrastructure around it.
 - [Tiger Lily Plants](https://github.com/tigerlilyplants) brings botany and engineering together to reimagine the spaces we inhabit.
 - [Lavenvale](https://github.com/lavenvale) makes complex systems readable, connecting people.
