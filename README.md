@@ -1,6 +1,6 @@
 <img src="assets/polyad.png" alt="Polyad mascot: two connected robot faces" width="112" align="right">
 
-Platform engineering · developer tools · environmental systems
+AI · Nature · People
 
 📄 [Résumé](https://resume.tiger-lily-plants.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/emmeowzing/)
 
