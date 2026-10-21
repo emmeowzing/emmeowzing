@@ -8,7 +8,7 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 
 ## Current work
 
-My work at [Astrivant](https://github.com/astrivant) spans secure, user-owned agent knowledge and the infrastructure around them.
+My work at [Astrivant](https://github.com/astrivant) spans AI and the infrastructure around them.
 
 Example public projects that have been curated as part of this work:
 
