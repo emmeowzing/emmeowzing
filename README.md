@@ -8,6 +8,7 @@ I'm a platform engineer with a background in SRE, cloud infrastructure, and deve
 
 ## Current work
 
-- [Astrivant](https://github.com/astrivant) spans AI and the infrastructure around it.
-- [Tiger Lily Plants](https://github.com/tigerlilyplants) brings botany and engineering together to reimagine the spaces we inhabit.
-- [Lavenvale](https://github.com/lavenvale) makes complex systems readable, connecting people.
+- [Consilience LLC](https://github.com/enterprises/consilience): a holding company that oversees the following ventures with the above ethos in mind: Nature, AI and People can all mutually benefit from one another.
+  - [Astrivant LLC](https://github.com/astrivant) spans AI and the infrastructure around it.
+  - [Tiger Lily Plants LLC](https://github.com/tigerlilyplants) brings botany and engineering together to reimagine the spaces we inhabit.
+  - [Lavenvale LLC](https://github.com/lavenvale) makes complex systems readable and navigable, connecting people.
