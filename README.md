@@ -4,7 +4,7 @@ Nature · AI · People
 
 📄 [Résumé](https://resume.tiger-lily-plants.com) · 🔗 [LinkedIn](https://www.linkedin.com/in/emmeowzing/)
 
-I'm a platform engineer with a background in SRE, cloud infrastructure, and developer tooling. I build tools for understanding complex systems, testing their behavior, and making them easier to operate. I also run Tiger Lily Plants, where my interests in plants, terrariums, and software meet.
+I'm a platform engineer with a background in SRE, cloud infrastructure, and developer tooling. I build tools for understanding complex systems, testing their behavior, and making them easier to operate.
 
 ## Current work
 
