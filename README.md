@@ -1,4 +1,4 @@
-<img src="assets/polyad.png" alt="Polyad mascot: two connected robot faces" width="112" align="right">
+<!-- <img src="assets/polyad.png" alt="Polyad mascot: two connected robot faces" width="112" align="right"> -->
 
 Nature · AI · People
 
